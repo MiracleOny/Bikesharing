@@ -19,10 +19,10 @@ User Demographics:
 [user demographic distributions and comparisons](/images/demographics.png)
 
 Trip Duration Distribution:
-[overall duration](/images/duration.png)
+[Overall duration](/images/duration.png)
 
 Popular Locations:
-[routes: location](.png)
+[Starting and ending locations](/images/location.png)
 
 
 Peak Usage Times:
