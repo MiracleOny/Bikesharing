@@ -47,3 +47,5 @@ Stats: Majority of bikes are used for less than 20 minutes. Those of unknown gen
 
 ## Summary
 The analysis of bike trip data for August revealed key insights into user demographics, trip duration, popular bike locations, peak usage hours, and bike maintenance trends. Overall, the majority of trips were made by subscribers, with males representing the largest user demographic. Pershing Square, 860 Broadway, and Tribeca Bridge were the most popular bike stations, while peak usage occurred during evening hours. The average trip duration varied among different user groups, with customers generally taking longer trips compared to subscribers. 
+
+![duration by user](images/duration_userbar.png) ![duration by gender](images/duration_genderbar.png)
